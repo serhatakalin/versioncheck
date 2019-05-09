@@ -1,1 +1,5 @@
-versioncheck
+'''
+VersionCheck.storeCheckForUpdate {(val) in 
+...
+}
+'''
