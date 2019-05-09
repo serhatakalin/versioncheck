@@ -1,5 +1,5 @@
 ```
-VersionCheck.storeCheckForUpdate {(val) in 
+VersionCheck.storeCheckForUpdate {(boolValue) in 
 ...
 }
 ```
